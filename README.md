@@ -66,6 +66,6 @@ This project was inspired by a real operational challenge I observed during my h
 ### search page
 ![Smart Archive search page](search-page.png.png)
 ### patient file
-![Smart Archive patient file page]([patient-file.png.png]
+![Smart Archive patient file page](patient-file.png.png)
 ### fail
 ![Smart Archive fail page](patient-filefail.png.png)
