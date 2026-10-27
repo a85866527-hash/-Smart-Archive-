@@ -68,4 +68,4 @@ This project was inspired by a real operational challenge I observed during my h
 ### patient page
 ![Smart Archive patient page](patient-file.png.png)
 ### fail
-![Smart Archive fail page](patient-file fail.png.png)
+![Smart Archive fail page](patient-file%20fail.png.png)
