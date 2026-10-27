@@ -59,7 +59,7 @@ An activity log recording staff actions and timestamps.
 Project Context
 This project was inspired by a real operational challenge I observed during my hospital internship. It demonstrates how a focused web application and a structured database can support day-to-day workflows in a medical records department.
 ## Secreenshots 
-### Login pasge 
+### Login page 
 ![Smart Archive Login page](login-page.png.png)
 ### Register patient file
 ![Smart Archive Register patient page](register-patient.png.png)
